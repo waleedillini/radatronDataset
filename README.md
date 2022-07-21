@@ -5,7 +5,7 @@ Radatron: Accurate Detecton using Multi-resolution Cascaded MIMO Radar, ECCV 202
 Please download the pre-processed dataset from [here](https://uofi.box.com/v/radatrondataset) and extract it.
 
 ## Dataset Description
-Between February 2021 to March 2021, we traversed through the twin-cities of Urbana-Champaign in the state of Illinois, USA, three times per week on average using our Radatron dataset collection platform mounted on our car. With a total driving distance spanning over 500 miles and experiments spanning 12 days, our data collection platform consisting of a TI-MMWCAS cascaded MIMO radar and a ZED stereo-camera, provided us with close to 500,000 frames of radar and stereo-camera data. After refining the data and filtering out the empty-frames with no objects, our final dataset consists of 152,000 frames translating to 4.2 hours of driving. 
+From February 2021 to March 2021, we traversed through the twin-cities of Urbana-Champaign in the state of Illinois, USA, three times per week on average using our Radatron dataset collection platform mounted on our car. With a total driving distance spanning over 500 miles and experiments spanning 12 days, our data collection platform consisting of a TI-MMWCAS cascaded MIMO radar and a ZED stereo-camera, provided us with close to 500,000 frames of radar and stereo-camera data. After refining the data and filtering out the empty-frames with no objects, our final dataset consists of 152,000 frames translating to 4.2 hours of driving. 
 The data was collected in diverse scenarios including campus roads, our local urban streets, and downtown areas of Champaign and Urbana. We drove through these areas via a variety of different roots to enhance the robustness of the collected dataset. 
 
 ## Sensor Suite
